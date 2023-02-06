@@ -194,7 +194,7 @@ a {
 }
 
 #top-jumbotron-committee {
-    background        : url('../img/large/athens-committees-bg-large.jpeg') center center no-repeat;
+    background        : #000;
     /*background      : no-repeat center center;*/
     background-size   : cover;
     position          : relative;
