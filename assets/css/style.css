@@ -260,7 +260,6 @@ a {
 .image-wrapper.bg-overlay:not(.bg-content) *,
 .image-wrapper.bg-overlay.bg-content .content {
     position: relative;
-    z-index : 2;
 }
 
 #jumbotron_bottom_text {
